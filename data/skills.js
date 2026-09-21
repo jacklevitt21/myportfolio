@@ -22,6 +22,7 @@ const SKILL_GROUPS = [
     items: [
       'MATLAB',
       'Python',
+      'Java',
       'C++',
       'SolidWorks',
       'PTC Creo',

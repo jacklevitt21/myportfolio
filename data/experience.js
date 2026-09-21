@@ -37,20 +37,20 @@
 const EXPERIENCES = [
   {
     id: 'recovery-systems-lead',
-    title: 'Recovery Systems Lead',
+    title: 'IREC Team Lead',
     org: 'Princeton Rocketry',
     section: 'rocketry',
     dates: 'Sep 2025 – Present',
     location: 'Princeton, NJ',
     image: 'assets/images/recovery-systems-lead/openrocket-model.png',
-    oneLiner: 'Parachute recovery systems and flight simulation for 30,000-ft high-powered rockets.',
-    summary: 'High-powered rockets are usually lost during recovery, not ascent. A parachute that deploys wrong turns a season of work into scrap, so I lead the systems that bring ours back intact, modeling flight performance before we ever leave the ground and then designing the structural hardware that has to survive the trip.',
+    oneLiner: 'Leading a 50+ engineer team building a Mach 2+, 30,000-ft rocket for the Intercollegiate Rocket Engineering Competition.',
+    summary: 'Princeton Rocketry’s competition rocket has to hit 30,000 ft and Mach 2+ for the Intercollegiate Rocket Engineering Competition, which means signing off on decisions across five subsystems built by 50 other people. I lead that team, while still doing the recovery and structural design work myself: modeling flight performance, running CFD on the airframe, and building the bulkhead hardware that has to survive the trip back down.',
     bullets: [
-      'Led recovery systems engineering for 30,000-ft high-powered rockets, developing parachute deployment mechanisms and conducting ground testing to validate mission-critical flight hardware.',
-      'Performed CFD simulations of rocket geometries to evaluate airflow behavior, aerodynamic stability, and performance impacts across flight regimes.',
-      'Designed, fabricated, and validated optimized bulkhead structures using CAD and manufacturing processes, improving structural performance while optimizing subsystem mass.'
+      'Led a cross-functional team of 50+ engineers designing, building, and testing a high-power rocket targeting 30,000 ft apogee and Mach 2+ for the Intercollegiate Rocket Engineering Competition, overseeing propulsion, avionics, recovery, payload, and structural subsystem integration.',
+      'Led recovery systems engineering for the rocket, developing parachute deployment mechanisms and conducting ground testing to validate mission-critical flight hardware.',
+      'Conducted CFD simulations of rocket geometries to evaluate aerodynamic stability and drag performance, and designed and fabricated structural bulkheads using CAD and CNC manufacturing processes.'
     ],
-    tags: ['CAD', 'CFD', 'OpenRocket', 'Manufacturing'],
+    tags: ['Team Leadership', 'CAD', 'CFD', 'OpenRocket', 'Manufacturing'],
     gallery: [
       { src: 'assets/images/recovery-systems-lead/openrocket-model.png', caption: 'Rocket model in OpenRocket' },
       { src: 'assets/images/recovery-systems-lead/flight-simulation.png', caption: 'Simulated flight performance: altitude, velocity, and acceleration vs. time' },
